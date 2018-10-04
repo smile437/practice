@@ -1,0 +1,82 @@
+c:\users\test\documents\visual studio 2013\Projects\practice\practice\bin\Debug\practice.exe.config
+C:\Users\test\OneDrive\practice\practice\bin\Debug\practice.exe.config
+C:\Users\V\Desktop\practice\practice\bin\Debug\practice.exe.config
+C:\Users\V\Desktop\practice\practice\bin\Debug\practice.exe
+C:\Users\V\Desktop\practice\practice\bin\Debug\practice.pdb
+C:\Users\V\Desktop\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\V\Desktop\practice\practice\obj\Debug\practice.Form1.resources
+C:\Users\V\Desktop\practice\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\V\Desktop\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Users\V\Desktop\practice\practice\obj\Debug\practice.exe
+C:\Users\V\Desktop\practice\practice\obj\Debug\practice.pdb
+C:\Users\test\OneDrive\practice\practice\obj\Debug\practice.exe
+C:\Users\test\OneDrive\practice\practice\obj\Debug\practice.pdb
+C:\Users\test\Desktop\practice\practice\bin\Debug\practice.exe.config
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.exe
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.pdb
+C:\Users\test\Desktop\practice\practice\bin\Debug\practice.exe
+C:\Users\test\Desktop\practice\practice\bin\Debug\practice.pdb
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.Form1.resources
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\practice\practice\bin\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practice\practice\bin\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.Form1.en.resources
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.Form1.ru.resources
+C:\Users\test\Desktop\practice\practice\obj\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practice\practice\obj\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practice\practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\test\Desktop\practice\practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\test\Desktop\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\practice\practice\bin\Debug\NLog.config
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\practice.exe.config
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.exe
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.pdb
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\practice.exe
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\practice.pdb
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\test\Desktop\practi1ce — копия\practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.Form1.resources
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.Form1.en.resources
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.Form1.ru.resources
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practi1ce — копия\practice\obj\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\practice.exe.config
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.exe
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.pdb
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\practice.exe
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\practice.pdb
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\test\Desktop\practice — копия\practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.Form1.resources
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.Form1.en.resources
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.Form1.ru.resources
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practice — копия\practice\obj\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\practice.exe.config
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.exe
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.pdb
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\practice.exe
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\practice.pdb
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\ru\practice.resources.dll
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\test\Desktop\practice NEW\practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.Form1.resources
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.Form1.en.resources
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.Form1.ru.resources
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\en\practice.resources.dll
+C:\Users\test\Desktop\practice NEW\practice\obj\Debug\ru\practice.resources.dll
